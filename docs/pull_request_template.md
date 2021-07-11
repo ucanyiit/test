@@ -1,14 +1,17 @@
-## Description
+### Description
 
-Include a summary of the change and which issue is fixed. Also include context. List if there are any dependencies that are required for this change.
+Include a summary of the change and which issue is fixed. Also, include context. List if there are any dependencies that are required for this change.
 
-### Reviewer: @.. 
+### Reviewer: @ucanyiit 
 
-### Screenshots (Or Videos)
+### Screenshots (or videos)
 
-If this change affects the frontend, provide some screenshots or even videos to describe the change more clearly. If not, this part is not necessary.
+If this change affects the frontend, provide screenshots or videos to describe the change more clearly. If not, this part is not necessary.
 
 ### How Has This Been Tested?
 
 Describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Also list any relevant details for your test configuration.
 
+### Other Notes
+
+Feel free to include more stuff related to this PR.
