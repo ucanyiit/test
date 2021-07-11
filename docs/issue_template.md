@@ -1,4 +1,4 @@
-# Prerequisites
+## Prerequisites
 
 Please answer the following questions for yourself before submitting an issue. **YOU MAY DELETE THE PREREQUISITES SECTION.**
 
@@ -6,15 +6,15 @@ Please answer the following questions for yourself before submitting an issue. *
 - [ ] I am running the latest development version (dev branch)
 - [ ] I checked to make sure that this issue has not already been filed
 
-# Expected Behavior
+## Expected Behavior
 
 Please describe the behavior you are expecting.
 
-# Current Behavior
+## Current Behavior
 
 What is the current behavior?
 
-# Failure Information (for bugs)
+## Failure Information (for bugs)
 
 Please help provide information about the failure if this is a bug. If it is not a bug, please remove the rest of this template.
 
