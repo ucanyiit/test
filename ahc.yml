@@ -2,4 +2,4 @@ image: .
 command: python3 main.py
 
 files:
-  - "*.txt"
+  - "wowo"
