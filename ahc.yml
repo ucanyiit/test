@@ -1,5 +1,14 @@
 image: .
 command: python3 main.py
-
 files:
-  - "wowo"
+  - '*.txt'
+topology:
+  nodes:
+    - id: 4729d01d-c922-4750-bf10-134b1a747e7d
+      x: -101.5
+      'y': -55.984375
+      label: new
+  edges:
+    - from: 4729d01d-c922-4750-bf10-134b1a747e7d
+      to: 4729d01d-c922-4750-bf10-134b1a747e7d
+      id: 091baf84-4f4c-45bd-b5e3-bd94642293f2
